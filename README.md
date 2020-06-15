@@ -165,7 +165,8 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 ## Submission on BCS
 
-<a href="https://imgflip.com/gif/4593gb"></a>
+![4593gb](https://user-images.githubusercontent.com/60802699/84716013-e98a6280-af26-11ea-9290-d168703fcf32.gif)
+
 
 You are required to submit the following:
 
